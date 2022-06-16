@@ -1,9 +1,9 @@
 # 💫About Me :
-🔭 I’m currently working for the BBC.
-🌱 I’m constantly learning more about CSS and styling.
-💬 Ask me about any tech-related stuff.
-📫 How to reach me: Email – hi@itsmenatalie.com
-⚡ Fun fact: Apparently I'm shorter than I look.
+🔭 I’m currently working for the BBC.<br/>
+🌱 I’m constantly learning more about CSS and styling.<br/>
+💬 Ask me about any tech-related stuff.<br/>
+📫 How to reach me: Email – hi@itsmenatalie.com<br/>
+⚡ Fun fact: Apparently I'm shorter than I look.<br/>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ItsMeNatalie__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmenatalie) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ItsMeNatalie___) 
