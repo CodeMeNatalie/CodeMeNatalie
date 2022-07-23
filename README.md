@@ -14,9 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=CodeMeNatalie&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodeMeNatalie&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMeNatalie&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeMeNatalie&theme=flat&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=CodeMeNatalie&icon=4&color=9)](https://visitcount.itsvg.in)
